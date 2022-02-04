@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Fried Ice Cream",
+		"ingredients": [
+			"ice cream",
+			"butter",
+			"corn cereal",
+			"cinnamon",
+			"sugar",
+			"whipped cream",
+			"sprinkles",
+			"cherries"
+		]
+	},
+	{
+		"title": "Oreo Truffles",
+		"ingredients": [
+			"oreos",
+			"cream cheese",
+			"vanilla extract",
+			"chocolate"
+		]
+	},
+	{
+		"title": "Chocolate Pudding",
+		"ingredients": [
+			"sugar",
+			"cocoa powder",
+			"milk",
+			"eggs",
+			"chocolate",
+			"butter",
+			"vanilla extract",
+			"whipped cream"
+		]
+	},
+	{
+		"title": "Cookie Dough Ice Cream Sandwiches",
+		"ingredients": [
+			"butter",
+			"sugar",
+			"milk",
+			"vanilla extract",
+			"flour",
+			"chocolate",
+			"ice cream"
+		]
+	},
+	{
+		"title": "Neapolitan Bundt Cake",
+		"ingredients": [
+			"cake mix",
+			"water",
+			"butter",
+			"eggs",
+			"strawberry syrup",
+			"vanilla extract",
+			"chocolate syrup"
+		]
+	},
+	{
+		"title": "Chocolate - Covered Cake Balls",
+		"ingredients": [
+			"cake mix",
+			"butter",
+			"sugar",
+			"vanilla extract",
+			"chocolate",
+			"sprinkles"
+		]
+	},
+	{
+		"title": "Confetti Squares",
+		"ingredients": [
+			"chocolate",
+			"butter",
+			"vanilla extract",
+			"peanuts",
+			"rainbow marshmallows"
+		]
+	}
+]
